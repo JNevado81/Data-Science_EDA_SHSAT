@@ -65,7 +65,7 @@ Reparto geográfico de los colegios en función de la raza de sus estudiantes.
 * Candidaturas por razas.
 
 
-## HIPÓTESIS
+## VALIDACIÓN DE HIPÓTESIS
 
 * Los colegios que pertenecen a una comunidad tienen menor índice de necesidad económica y a la vez una mejor estimación de ingresos.
 
@@ -73,5 +73,5 @@ Reparto geográfico de los colegios en función de la raza de sus estudiantes.
 
 * Por lo tanto, podemos afirmar que la localización de los colegios está afectando a las ayudas.
 
-* Dichos centros tienen tienen un % de asistencia a clase más bajo.
+* Dichos centros tienen un % de asistencia a clase más bajo.
 
