@@ -24,7 +24,7 @@ A repository of the projects I've created. The projects are written Python (Jupy
 
 El acceso a los centros de especialización ha sido siempre motivo de debate en la ciudad, puesto que se presupone que existe un trato favorable a estudiantes de raza blanca, en detrimento de latinos y negros.
 
-¿Cómo es el proceso de admisión? Lo primero, los alumnos eligen los centros en un ranking. Después realizan un examen (SHSAT), y en función de una notas de corte, se reparten los estudiantes en los distintos centros. Las notas las establece cada centro, y cambian todos los años, dependiendo de la cantidad de plazas disponibles y el número de aplicaciones. El problema reside en que no se publican esas notas de corte, y se sospecha que los criterios no san tan objetivos.
+¿Cómo es el proceso de admisión? Lo primero, los alumnos eligen los centros en un ranking. Después realizan un examen (SHSAT), y en función de una nota de corte, se reparten los estudiantes en los distintos centros. Las notas las establece cada centro, y cambian todos los años, dependiendo de la cantidad de plazas disponibles y el número de aplicaciones. El problema reside en que no se publican esas notas de corte, y se sospecha que los criterios no son tan objetivos.
 
 * Bajo número de estudiantes negros y latinos en centros de especialización.
 
